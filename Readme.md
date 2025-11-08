@@ -62,11 +62,10 @@ The analysis focuses on six key questions:
 
 ### 🔹 5. Visualization (Power BI)
 - Built 5 interconnected pages:
-1. **Overview Dashboard**
-2. **Order & City Trends**
+1. **Executive Summary**
+2. **High-Value Customers**
 3. **Restaurant Partnerships**
-4. **Delivery Performance**
-5. **Sentiment & Loyalty**
+4. **Misconception & Assumptions**
 - Custom theme (`QuickBite Theme.json`) using brand colors (#4E79A7, #F28E2B, #59A14F).
 - Added interactive slicers (Phase, Month, City).
 
@@ -98,8 +97,7 @@ The analysis focuses on six key questions:
 |------|----------|
 | **MySQL** | Data staging, cleaning, transformation |
 | **Power BI** | Data modeling, DAX, and interactive visualization |
-| **PowerPoint** | Video presentation & storytelling |
-| **Canva / Photoshop** | Theme & visual design assets |
+| **PowerPoint** | presentation & storytelling |
 | **GitHub** | Project version control and documentation |
 
 ---
@@ -113,10 +111,8 @@ The analysis focuses on six key questions:
 ## 🎥 Deliverables
 | Item | Description |
 |------|--------------|
-| 📊 **Power BI Dashboard** | [Public Link Here] |
-| 🎬 **Video Presentation (10 min)** | [YouTube Link Here] |
-| 🧾 **ER Model** | Available in `/Assets` |
-| 💻 **SQL Scripts** | All SQL files in `/SQL` folder |
+| 📊 **Power BI Dashboard** | [Public Link Here](https://app.powerbi.com/view?r=eyJrIjoiYzBlOGFhYzItMDU5OC00MzgwLTgzN2YtZmVmZGU5MjBhMDM5IiwidCI6ImU4ODI0Y2Q4LTUwY2MtNDA0NS1iYWRmLTQ2ZjI2MjgyYTQ1NCJ9&pageName=887f87325d70d3b794b7) |
+| 💻 **SQL Scripts** | All SQL files in `/Analysis/SQL_queries` folder |
 
 ---
 
@@ -136,10 +132,7 @@ The *QuickBite Express Dashboard* serves as a recovery blueprint for any busines
 
 ## 🤝 Connect With Me
 👤 **Akash Gupta**  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 itsaakashgupta@onmicrosoft.com  
-📂 [GitHub Projects](https://github.com/yourusername)  
-🎥 [YouTube Presentation](https://www.youtube.com/watch?v=yourlink)
+🌐 [LinkedIn](https://www.linkedin.com/posts/itsaakash-gupta_powerbi-dataanalytics-businessintelligence-activity-7392542208983425024-EGI4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCRyfQBTk3HGu9xZXL8jzIrUkpjBBdZFb4)  
 
 ---
 
